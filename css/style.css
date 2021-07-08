@@ -1,0 +1,15 @@
+.box{
+    min-height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.mh-400{
+    min-height: 400px;
+}
+
+.text{
+    margin-top: 50px;
+}
